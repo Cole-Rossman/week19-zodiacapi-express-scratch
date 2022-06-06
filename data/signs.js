@@ -72,3 +72,5 @@ const signs = [
     symbol: "Virgin"
     }
     ]
+
+    module.exports = { signs };
