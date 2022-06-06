@@ -74,3 +74,5 @@ const signs = [
     ]
 
     module.exports = { signs };
+
+    // module.exports is how we export in common js (backend)
